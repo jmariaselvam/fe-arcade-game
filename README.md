@@ -4,8 +4,8 @@ A fun game where you collect points everytime you reach the water way.
 ## How To Run the game
 * Clone the application from [GitHub!](https://github.com/jmariaselvam/fe-arcade-game.git).
 * Open the index.html file in a Web Browser.
-* Click on the Start Game button to play the game.
-* Click on the Reset Game button to reset the game and start from scratch.
+* Click on the **Start Game** button to play the game.
+* Click on the **Reset Game** button to reset the game and start from scratch.
 
 ## How To Play
 * Use the arrow keys to move the player to the left, right, up and down.
